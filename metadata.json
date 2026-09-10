@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel AWS Anomaly Detection",
+  "description": "Continuous Quality Control & Anomaly Detection system for Automatic Weather Station (AWS) networks, featuring 3-tier contextual detection, role-based views, and scenario simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
